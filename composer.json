@@ -1,0 +1,13 @@
+{
+  "name": "finasport/oop-refactor-phase1",
+  "description": "Phase 1 OOP refactor starter for Finasport legacy PHP app",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
