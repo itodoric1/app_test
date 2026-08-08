@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     Start([Korisnik pokreće aplikaciju]) --> LoginForm[Prikaz login forme]
     LoginForm --> Input[Korisnik unosi<br/>email/username i lozinku]
@@ -35,3 +36,4 @@ flowchart TD
     style ShowAuthError fill:#ffecb3
     style Show2FAError fill:#ffecb3
     style LockAccount fill:#ffcdd2
+```
